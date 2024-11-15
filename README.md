@@ -26,12 +26,15 @@
 Если  установливать стандартную версию- нужно скачать стандартный инсталлятор с сайта и запустить его.
 <img src="file:///C:/Users/Богдан/Desktop/Установка ПО/Screenshot_159.png"/>.
 
+![Image alt](https://github.com/OksanaKuznetsova19/Ustanovka-PO/blob/main/Screenshot_159.png)
+
 Если при попытке запуска инсталлятора  запрашиваются права администратора — жмём «Да». Обычно система права не запрашивает.
 
 Принимаем лицензионное соглашение, нажав «Принимаю».
 
 <img src="file:///C:/Users/Богдан/Desktop/Установка ПО/Screenshot_160.png"/>.
 
+![Image alt](https://github.com/OksanaKuznetsova19/Ustanovka-PO/blob/main/Screenshot_160.png)
 
   «For me (User)»  - Если  ПК используют несколько пользователей под разными учётными записями и вы не хотите, чтобы они видели установленный DBeaver у себя
 
@@ -40,10 +43,13 @@
 
 <img src="file:///C:/Users/Богдан/Desktop/Установка ПО/Screenshot_161.png"/>.
 
+![Image alt](https://github.com/OksanaKuznetsova19/Ustanovka-PO/blob/main/Screenshot_161.png)
+
+
 Далее  нужно поставить галочки напротив следующих пунктов
-1.DBeaverCommunity
-2.includeJava
-3.Assosiate .SQLfiles
+1. DBeaverCommunity
+2. includeJava
+3. Assosiate .SQLfiles
 
 Далее нам нужно выбрать папку установки Dbeaver (желательно использовать предложенную). Нажимаем «Далее >».
 
