@@ -14,7 +14,10 @@
 
 Нужно выбрать вариант операционной системы и скачать ПО. 
 
-<img src="file:///C:/Users/Богдан/Desktop/Установка ПО/Screenshot_124.png" />
+
+<img src="file:///C:/Users/Богдан/Desktop/Установка ПО/Screenshot_124.png"/>. 
+
+![Image alt](https://github.com/OksanaKuznetsova19/Ustanovka-PO/blob/main/Screenshot_124.png)
 
 Если при попытке запуска инсталлятора у вас запрашивает права администратора и они у вас есть — жмём «Да».
 
@@ -32,7 +35,7 @@
 Для продолжения потребуются права администратора. Жмём «Да».
 
 Далее  нужно поставить галочки напротив следующих пунктов
--DBeaverCommunity
+DBeaverCommunity
 -includeJava
 -Assosiate .SQLfiles
 
